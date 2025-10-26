@@ -9,9 +9,6 @@ class Header extends React.Component {
             <div className='header'>
                 <div className='wrap'>
                     <div className='logo'>Video</div>
-                    <div className='search'>
-                        <Search></Search>
-                    </div>
                     <div className='right'>
                         <div>+7 911 123 45 67</div>
                         <div>masha@dasha.ru</div>
